@@ -1,0 +1,5 @@
+$(function(){
+    // getArt();
+
+    function (param) {  }
+});
